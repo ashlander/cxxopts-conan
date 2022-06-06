@@ -14,7 +14,7 @@ class CxxOptsConan(ConanFile):
     url = "https://github.com/ashlander/cxxopts-conan.git"
     homepage = "https://github.com/jarro2783/cxxopts"
     author = "Inexor <info@inexor.org>"
-    license = "BSD 2-Clause"
+    license = "MIT"
     no_copy_source = True
 
     # Packages the license for the conanfile.py
